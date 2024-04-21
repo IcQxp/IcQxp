@@ -1,4 +1,9 @@
+<p align="center">
+ <h2 align="center">IcQxp</h2>
+</p>
+
 ### Hi there 👋
+
 
 ![IcQxp's GitHub stats](https://github-readme-stats.vercel.app/api?username=IcQxp\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
 
