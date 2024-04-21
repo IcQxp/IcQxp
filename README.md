@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![IcQxp's GitHub stats](https://github-readme-stats.vercel.app/api?username=IcQxp\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+![IcQxp's GitHub stats](https://github-readme-stats.vercel.app/api?username=IcQxp\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IcQxp\&layout=compact\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IcQxp\&layout=compact\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
 <!--
 **IcQxp/IcQxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
