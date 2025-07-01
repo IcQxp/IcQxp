@@ -8,10 +8,13 @@
  
 </div>
 
+
 <details align="center">
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IcQxp&theme=midnight-purple)](https://git.io/streak-stats)
 <!--
-     [![GitHub Streak](https://streak-stats.demolab.com/?user=IcQxp&theme=midnight-purple)](https://git.io/streak-stats)
+     ![GitHub Streak](https://streak-stats.demolab.com/?user=IcQxp&theme=midnight-purple)](https://git.io/streak-stats)
 -->
  
   <summary>Stats</summary>
