@@ -3,6 +3,34 @@
 </p>
 <!-- <p align="center"> <h2 align="center"></h2></p> -->
 </div>
+<p align="center">
+<a href="https://vk.com/ilya_lyashov">
+<img src="https://img.shields.io/badge/VK-0011ff?style=for-the-badge&logo=vk&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/IcQxp/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
+<h2 align="center"> Stack </h2>
+<div align="center">
+<img width="40px" heigth="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
+<img width="40px" heigth="40px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg"/>
+<img width="40px" heigth="40px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"/>
+<img width="40px" heigth="40px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"/>
+<img width="40px" heigth="40px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg"/>
+<img width="40px" heigth="40px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"/>
+<img width="40px" heigth="40px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"/>
+<img width="40px" heigth="40px" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"/>
+<img width="40px" heigth="40px" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg"/>
+<img width="40px" heigth="40px" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg"/>
+<img width="40px" heigth="40px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
+
+</p>
+
+</div>
 
 <details align="center">
 
