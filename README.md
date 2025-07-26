@@ -1,6 +1,8 @@
 <p align="center">
  <h2 align="center">IcQxp</h2>
 </p>
+
+
 <!-- <p align="center"> <h2 align="center"></h2></p> -->
 </div>
 <p align="center">
@@ -11,7 +13,15 @@
 <a href="https://leetcode.com/u/IcQxp/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/>
 </a>
+
+
+<a href="https://t.me/icqxp">
+<img src="https://img.shields.io/badge/Telegram-26a4e4?style=for-the-badge&logo=Telegram&logoColor=white"/>
+</a>
 </p>
+
+
+
 
 <p align="center">
 <h2 align="center"> Stack </h2>
